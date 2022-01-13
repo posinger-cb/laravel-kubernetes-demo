@@ -30,3 +30,6 @@ Please email support@learnk8s.io
 ## License
 
 The Laravel framework and this demo are open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Docker
+https://learnk8s.io/blog/kubernetes-deploy-laravel-the-easy-way
